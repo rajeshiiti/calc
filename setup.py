@@ -1,12 +1,12 @@
 from setuptools import setup
 
-setup(name='calc',
+setup(name='nk_calc',
 
       version='0.1',
       description='World Top Calc',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/rajeshiiti/calc.git',
       author='Calc Owner',
-      author_email='flyingcircus@example.com',
+      author_email='rjnkvrmrjsh@gmail.com',
       license='MIT',
       packages=['calc'],
       zip_safe=False)
